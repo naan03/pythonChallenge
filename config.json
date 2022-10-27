@@ -1,0 +1,4 @@
+{
+  "column_data": "int_data:integer, string_data:string",
+  "chuck_size": 10
+}

@@ -1,0 +1,12 @@
+# pip install -r requirements.txt
+
+# Base ----------------------------------------
+pandas
+numpy
+flask
+flask_restful
+sqlalchemy
+psycopg2
+JSON_minify
+requests
+requests-toolbelt
